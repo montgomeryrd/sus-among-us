@@ -1,0 +1,19 @@
+{
+  "name": "sus-among-us",
+  "version": "1.0.0",
+  "description": "EL Creative Media - Among Us - SCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montgomeryrd/sus-among-us.git"
+  },
+  "author": "Richard Montgomery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montgomeryrd/sus-among-us/issues"
+  },
+  "homepage": "https://github.com/montgomeryrd/sus-among-us#readme"
+}
